@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\8b5e427043d1af8068cdbf642d27a9a2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\f06ea72316c60422814fef18974a3f1f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\5796b7b2d45a8d8b559df51a3f5711e7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\7a386ba7e986527f88eddf7d7884c307\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:3:11-53
+		INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:7:5-9:40
+INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:7:5-9:40
+INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\8b5e427043d1af8068cdbf642d27a9a2\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\8b5e427043d1af8068cdbf642d27a9a2\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\f06ea72316c60422814fef18974a3f1f\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\f06ea72316c60422814fef18974a3f1f\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\5796b7b2d45a8d8b559df51a3f5711e7\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\5796b7b2d45a8d8b559df51a3f5711e7\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\7a386ba7e986527f88eddf7d7884c307\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\7a386ba7e986527f88eddf7d7884c307\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:7:5-9:40
+INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:7:5-9:40
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\8b5e427043d1af8068cdbf642d27a9a2\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:11:5-88
+	android:name
+		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:11:30-86
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:12:5-82
+	android:name
+		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:12:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:13:5-87
+	android:name
+		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:13:30-85
+android:uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:14:30-74
+application
+ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:16:5-32:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\8b5e427043d1af8068cdbf642d27a9a2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\8b5e427043d1af8068cdbf642d27a9a2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\f06ea72316c60422814fef18974a3f1f\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\f06ea72316c60422814fef18974a3f1f\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\5796b7b2d45a8d8b559df51a3f5711e7\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\5796b7b2d45a8d8b559df51a3f5711e7\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\7a386ba7e986527f88eddf7d7884c307\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\7a386ba7e986527f88eddf7d7884c307\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:18:9-45
+	android:allowBackup
+		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:20:9-40
+activity#com.bignerdranch.android.geoquiz.QuizActivity
+ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:27:27-74
+activity#com.bignerdranch.android.geoquiz.SecondActivity
+ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:30:9-31:20
+	android:name
+		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\_01_FirstApp_GeoQuiz\src\main\AndroidManifest.xml:30:19-49
